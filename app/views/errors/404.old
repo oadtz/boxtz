@@ -1,0 +1,17 @@
+@section('title')
+{{'Error'}}
+@stop
+
+
+@section('content')
+<div ng-controller="Error404Controller">
+	<div class="section-content error-page">
+		<div class="header aligncenter">
+			<div class="code">404</div>
+			<h1>Page Not Found</h1>
+			<h2>We are sorry, the page you requested cannot be found.</h2>
+			<p>The URL may be misspelled or the page you're looking for is no longer available.</p>
+		</div>
+	</div><!-- /.section-content -->
+</div>
+@stop

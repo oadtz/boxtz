@@ -1,0 +1,16 @@
+//@prepros-append ../vendor/js/pusher.min.js
+//@prepros-append ../vendor/js/jquery.min.js
+//@prepros-append ../vendor/js/select2.min.js
+//@prepros-append ../vendor/js/jquery.growl.js
+//@prepros-append ../vendor/js/notify.min.js
+//@prepros-append ../vendor/js/angular.min.js
+//@prepros-append ../vendor/js/angular-animate.min.js
+//@prepros-append ../vendor/js/angular-resource.min.js
+//@prepros-append ../vendor/js/angular-select2.js
+//@prepros-append ../vendor/js/ui-utils.min.js
+//@prepros-append ../vendor/js/loading-bar.js
+//@prepros-append ../vendor/js/ui-bootstrap-tpls.min.js
+//@prepros-append ../vendor/js/ng-grid.min.js
+//@prepros-append app.services.js
+//@prepros-append app.js
+//@prepros-append app.controllers.js
